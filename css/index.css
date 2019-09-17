@@ -498,6 +498,7 @@ main {
 img{
 max-width: 100%;
 
+
  
 }
 .mainsec{
@@ -849,7 +850,7 @@ footer #f2{
   header nav ul {
       margin: auto;
       display: block;
-      width: auto;
+    
       padding: 0px;
       
   }
