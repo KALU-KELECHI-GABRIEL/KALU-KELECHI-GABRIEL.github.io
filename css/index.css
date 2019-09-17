@@ -850,7 +850,7 @@ footer #f2{
   header nav ul {
       margin: auto;
       display: block;
-    
+      width: auto;
       padding: 0px;
       
   }
@@ -862,6 +862,32 @@ footer #f2{
   nav ul li a{
       font-size: 25px;
       padding: 0 20px;
+  }
+
+}
+
+@media only screen and (max-width: 499px) and  (min-width: 300px){
+  #brand{
+      font-size: 28px;
+      font-weight: 900;
+      padding-left: 12px;
+  }
+  
+  header nav ul {
+      margin: auto;
+      display: block;
+      width: auto;
+      padding: 0px;
+      
+  }
+  nav ul li{
+      display: inline-block;
+      text-align: left;
+     
+  }
+  nav ul li a{
+      font-size: 20px;
+      padding: 0 10px;
   }
 
 }
