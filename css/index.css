@@ -446,7 +446,7 @@ font-size: 1rem;
 font-weight: 400;
 line-height: 1.5;
 color: #fbfdff;
-background-color: rgba(39, 38, 38, 0.7);
+background-color: rgba(12, 11, 11, 0.9);
 }
 
 header{
@@ -500,6 +500,12 @@ max-width: 100%;
 
 
  
+}
+section{
+  background: rgba(12, 11, 11, 0.9);
+}
+footer{
+  background: rgba(75, 73, 21, 0.9);
 }
 .mainsec{
   height: calc(100vh - 100px);
@@ -573,11 +579,11 @@ button a{
   width: 100%;
   overflow: hidden;
   padding-top:30px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
   
-  background-color: rgba(39, 38, 38, 0.7);
+  background-color: rgba(19, 18, 18, 0.7);
 }
 
 .tronimg{
@@ -863,6 +869,42 @@ footer #f2{
       font-size: 20px;
       padding: 0 10px;
   }
+  .mainsec{
+    height: calc(100vh - 100px);
+   
+    background-color: rgba(39, 38, 38, 0.7);
+    margin: 0%;
+    display: table;
+    border-bottom:2px rgba(39, 38, 38, 0.7);
+}
+
+
+#mainsec-content{
+   margin: 0 0;
+   padding-top: 0px;
+   background-color: rgba(39, 38, 38, 0.5);
+  
+}
+
+.mainsec h1{
+    display: inline-block;
+    text-align: center;
+    font-size: 50px;
+    line-height: 80px;
+}
+.mainsec h3{
+    padding-top: 30px;
+    color:lavenderblush;
+ 
+    text-align: center;
+    font-size: 25px;
+}
+#btn{
+    margin: 50px;
+    padding: 0;
+    text-align: center;
+
+}
 
 }
 
