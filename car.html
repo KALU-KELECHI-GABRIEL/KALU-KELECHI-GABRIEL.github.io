@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AutoMart | Product View</title>
+    <!-- Font Awesome cdn-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+    integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/car.css">
+</head>
+<body>
+    <header>
+        
+            <div id="brand">
+                <a href="index.html">  <span class="fa fa-campground br">uto</span>Mart </a>   
+               
+                        <nav id="head2">
+                            <ul>
+                              
+                                <li><a href="index.html"> <span class="fa fa-home">Home</span> </a></li>
+                                <li><a href="cars.html"> <span class="fa fa-cart-plus">Shop</span> </a></li>
+                                <li><a href="signin.html"> <span class="fa fa-arrow-left">LogOut</span></a></li>
+                             
+                             
+                            </ul>
+                        </nav>
+                    
+            </div>
+            
+        
+    </header>
+    <main>
+    <div  class="prod-card">
+        <div class="img">
+            <img src="img/toyota.jpg" alt="">
+        </div>
+        <div class="prod-info">
+            <h2 id="manufacturer">Manufacturer(toyota, honda)</h2>
+            <span class="desc" id="model"> Car model(kia rio, camry) </span>
+            <span class="price" id="price"> Price</span>
+            <span class="desc" id="state"> Car state</span>
+            <h3>Year <span id="year"> </span></h3>
+             <h3>Description</h3>
+            <span>
+               <p id="description">this is description of the car</p> 
+             </span>
+             <button class="addbtn" id="btn-buy" style="background:rgb(81, 205, 50);" onclick="purchase()">Purchase</button>
+             <button class="addbtn" id="btn-report" onclick="reportAsFraud()">Report As Fraud</button>
+                <h2 id="hidden1" style="display:none; margin-top: 10px">kindly Complete your order Form Below</h2>
+                <h2 id="hidden2" style="display:none; margin-top: 10px">kindly Complete the Report Form Below</h2>
+        </div>
+    </div>
+    <div id="form-wrap">
+            <form action="" id="negotiate" class="form">
+           
+                    <span class="fas fa-car-crash fm">
+                     <h2> Order Form </h2>
+                    </span>
+
+            <div id="form-group">
+              <h2>I will be willing to pay:</h2>
+             <h3> <input  style="color:black" type="text" name="offeredPrice" placeholder=" Amount in (₦)">  </h3>
+            </div>
+            <button type="submit">Make Bid</button>
+          </form>
+
+          <form action="" id="report" class="form">
+           
+                <span class="fas fa-user-shield fm">
+                 <h2> Report Form </h2>
+                </span>
+        <div id="form-group">
+          <h2>Report Ad because:</h2>
+         <h3> <textarea  style="color:black;" type="text" cols="35" rows="5" name="report-reason" placeholder=".. reason"> </textarea> </h3>
+        </div>
+        <button type="submit"> Report this Ad</button>
+      </form>
+          
+    </div>
+
+    </div>
+</main>
+
+    <footer>
+          
+            <section>
+                   <div id="ful">
+                        <ul  id='res'>
+                            <li>  <p> AUTOMART COPYRIGHT  &COPY; 2019</p></li>
+                                <li> <a href="#"> <span class="fab fa-facebook-f" ></span></a></li>
+                                <li> <a href="#"> <span class="fab fa-instagram" ></span></a></li>
+                                <li> <a href="#"> <span class="fab fa-twitter"></span></a></li>
+                              
+                            </ul>
+                               
+                   
+                    </div>
+           </footer>
+            
+              <script src="js/purchase.js"></script>
+           </body>
+           </html>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AutoMart | Post Product</title>
+   <!-- Font Awesome cdn-->
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+   integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+  
+    
+    <link rel="stylesheet" href="css/index.css">  
+    <link rel="stylesheet" href="css/signin-signup.css">
+   
+</head>
+<body>
+    <header>
+        
+            <div id="brand">
+                <a href="index.html">  <span class="fa fa-campground br">uto</span>Mart </a>   
+               
+                        <nav id="head2">
+                            <ul>
+                              
+                                <li><a href="index.html"> <span class="fa fa-home">Home</span> </a></li>
+                                <li><a href="cars.html"> <span class="fa fa-cart-plus">Shop</span> </a></li>
+                                <li><a href="signin.html"> <span class="fa fa-arrow-left">LogOut</span></a></li>
+                             
+                             
+                            </ul>
+                        </nav>
+                    
+            </div>
+            
+        
+    </header>
+
+    <main class="container">
+            <section >
+                
+                  <form action="dashboard.html" class="form">
+                      <div class="head-text">
+                    
+                          <p class="large text-primary">
+                            <i class="fas fa-car-crash">
+                              Car Details
+                            </i>
+                          </p>
+                        </div>
+                    <div class="form-group">
+                        <div class="formtxt">
+                                <label for="state" >Car state <span class="required">*</span></label>
+                        </div>
+                   <select name="state" required id=""  >
+                       <option value="New"> New </option>
+                       <option value="Used">Used</option>
+
+                   </select>
+                    </div>
+                    <div class="form-group">
+                            <div class="formtxt">
+                                    <label for="manufacturer" >Manufacturer <span class="required">*</span></label>
+                            </div>
+                      <input type="text" name="manufacturer" required placeholder="e.g honda, toyota">
+                    </div>
+                    <div class="form-group">
+                        <div class="formtxt">
+                                <label for="body-type" >Body Type <span class="required">*</span></label>
+                        </div>
+                  <input type="text" name="body-type" required placeholder="e.g car, truck,trailer, van">
+                </div>
+                    <div class="form-group">
+                            <div class="formtxt">
+                                    <label for="price" >Price <span class="required">*</span></label>
+                            </div>
+                      <input type="text" name="price" placeholder="Asking price in (₦)">
+                    </div>
+                    <div class="form-group">
+                        <div class="formtxt">
+                            <label for="model" >Model <span class="required">*</span></label>
+                    </div>
+                    <div class="form-group">
+                        <div class="formtxt">
+                                <label for="year" >Year <span class="required">*</span></label>
+                        </div>
+                  <input type="number" required name="year" min="1900" max="2019" placeholder="year produced">
+                </div>
+                      <input type="text" name="model" placeholder="e.g camry(toyota), rio(kia)" >
+                    </div>
+                    <div class="form-group">
+                        <div class="formtxt">
+                            <label for="description" > Car Description<span class="required">*</span></label>
+                    </div>
+                      <textarea name="description" required placeholder=" describe your car"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <div class="formtxt">
+                            <label for="photo" >Car Image <span class="required">*</span></label>
+                    </div>
+
+                        <input type="file" name="photo" accept="image/*" onchange="loadFile(event)"  />
+                        <img  id="output" width="70%" style="margin-top:10px"  />
+                      <script>
+                      const loadFile = function(event) {
+                        let output = document.getElementById('output');
+                        output.src = window.URL.createObjectURL(event.target.files[0]);
+                      }
+                      </script>
+                    </div>
+
+                    <div id="btn"> <button type="submit" class="get-started"> Post Car</button></div>
+
+                  </form>
+                  
+                  
+                </section>
+              </main>
+            
+    <footer>
+      
+            <div id="ful"><ul>
+                 <li><a href="index.html"> <p>Home </p></a></li>
+                 <li> </li>
+                 <li></li>
+                 <li><a href="signup.html"> <p>signout </p></a></li>
+                 <li></li>
+                 <li><a href="cars.html"> <p>shop </p></a></li>
+                 
+             </ul>
+             <ul  id='res'>
+                     <li> <a href="#"> <span class="fab fa-facebook-f" ></span></a></li>
+                     <li> <a href="#"> <span class="fab fa-instagram" ></span></a></li>
+                     <li> <a href="#"> <span class="fab fa-twitter"></span></a></li>
+                   
+                 </ul>
+     
+         </div>
+                            
+                                
+                                <div id="f1">
+                                     <p> AUTOMART COPYRIGHT  &COPY; 2019</p>
+                                </div>
+     
+        </footer>
+      
+        <script type="module" src="./storage.js"></script>
+        <script type="module" src="./formhandler.js"></script>
+        <script type="module" src="./postcar.js"></script> 
+     </body>
+     </html>

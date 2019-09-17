@@ -1,0 +1,243 @@
+
+main{
+    height: auto;
+    background: whitesmoke;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(39, 38, 38, 0.7);
+    background-size: cover;
+
+}
+main img{
+    height: auto;
+}
+
+.form-group {
+    position: center;
+    margin:  50px ;
+    width: 70%;
+    text-align: center;
+   
+    color: rgb(19, 18, 18);
+    font-size: 5rem;
+    text-shadow: 20px;
+}
+.form{
+    height: fit-content;
+    text-align: center;
+   
+}
+
+.form-text {
+	display: block;
+	margin-top: 0.3rem;
+	color: rgb(19, 18, 18);
+}
+
+.form input[type='text'],
+.form input[type='email'],
+.form input[type='password'],
+.form input[type='number'],
+.form input[type='date'],
+.form select,
+.form textarea {
+	display: block;
+	width: 100%;
+	padding: 0.5rem;
+	font-size: 1.7rem;
+	border: 1px solid #ccc;
+}
+.container {
+	max-width: var(--max-width);
+	
+	overflow: hidden;
+	
+	margin-bottom: 0px;
+	
+}
+
+.container .head-text {
+    text-align: center;
+    height: 100%;
+    width: fit-content;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.large{
+    font-size:28px ;
+}
+.my-1 {
+    padding-left: 20px;
+}
+.my-1 a{
+    text-decoration: none;
+    color: chartreuse;
+    text-align: center;
+    width: fit-content;
+   
+}
+
+.btn-primary{
+    display: inline-block;
+	background: var(--light-color);
+	color: rgb(196, 238, 8);
+	padding: 0.4rem 1.3rem;
+	cursor: pointer;
+	border: solid;
+	margin-right: 0.5rem;
+	outline: none;
+	font-size: 1rem;
+	text-decoration: none;
+	transition: all 0.2s ease-in;
+}
+p.large.text-primary{
+    margin: 0px;
+    padding: 30px 0px;
+}
+
+.image-box{
+  width: 90%;
+  margin: 2%;
+
+}
+.images{
+  background-repeat: no-repeat;
+  width: fit-content;
+}
+.manufacturer, .model, .state{
+  display: inline-block;
+  margin-left: 4px;
+}
+
+/* IMAGES */
+#image-1 {background-image: url('../img/rav4.jpg');}
+
+@media only screen and (min-width: 1200px){
+  
+   
+    /** mmain section */
+  
+    .mainsec{
+        height: calc(100vh - 100px);
+    text-align: center;
+       
+        background-color: rgba(39, 38, 38, 0.7);
+        margin: 0%;
+        display: table;
+        border-bottom:2px rgba(39, 38, 38, 0.7);
+    }
+    
+    
+    #mainsec-content{
+       margin: 0 0;
+       padding-top: 0px;
+       background-color: rgba(39, 38, 38, 0.5);
+      
+    }
+    
+    .mainsec h1{
+        display: inline-block;
+        text-align: center;
+        font-size: 80px;
+        line-height: 100px;
+        text-shadow: 2px 2px 8px black;
+    }
+    .mainsec h3{
+        padding-top: 30px;
+        color:lavenderblush;
+     
+        text-align: center;
+        font-size: 25px;
+    }
+    #btn{
+        margin: 50px;
+        padding: 0;
+        text-align: center;
+    
+    }
+    /** the jumbotrons */
+  
+   .trons{
+    height: auto;
+    width: 30%;
+    padding:30px 0px;
+   margin: 20px;  
+   border-radius: 15px;
+  }
+  .tronimg{
+    height: 500px;
+    width: 30%;
+    padding:30px 0px;
+    margin: 20px;  
+    border-radius: 15px;
+  }
+  .tronimg img{
+     height: 300px;
+  }
+  
+  
+  .trons h1{
+  font-size: 40px;
+  text-transform: uppercase;
+  color: lavenderblush;
+  }
+  .tron1{
+  
+   float: left;
+   height: auto;
+  }
+  .tron2{
+    float: left;
+    height: auto;
+  }
+  .tron3{
+    float: right;
+    height: auto;
+  }
+  
+  .tronimg1{
+  
+    float: left;
+    height: 500px;
+  }
+  .tronimg2{
+     float: left;
+     height: 500px;
+  }
+  .tronimg3{
+     float: right;
+     height: 500px;
+  }
+  
+  
+  .tron-icons{
+    text-align: center;
+    font-size: 5em;
+    color: rgb(243, 230, 225);
+  } 
+    
+  /** footer*/
+  
+ 
+  
+  
+  #socialmedia{
+  
+    font-size: 25px;
+    float: right;
+  }
+  
+  #socialmedia a{
+    margin-right: 90px;
+    font-size: 30px;
+  }
+  footer #f2{
+    height: auto;
+    padding: 0px;
+  }
+  #f1{
+  
+    text-align: center;
+    font-size: 14px;
+  }
+}
