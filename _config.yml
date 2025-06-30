@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kelechi Kalu / Kelechi Kalu's Personal Website"
+title                    : "Kelechi Gabriel Kalu"
 title_separator          : "-"
 name                     : &name "KELECHI KALU"
 description              : &description "A personal website for Kelechi Kalu, a researcher in the field of computer science. This site showcases my work, publications, and interests in technology and academia."
