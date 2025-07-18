@@ -37,7 +37,7 @@ Highlights
 
 **July 2025:** 
 - I will serve on the **ACM SCORED 2025 Workshop PC**.
-- I received a Travel Grant to attend the USENIX '25 Conference in Seattle.
+- I received a USENIX Student Travel Grant to attend the USENIX '25 Conference in Seattle.
 
 
 **June 2025:** We made contributions to the _[ACM SIGSOFT EMPIRICAL STANDARDS](https://www2.sigsoft.org/EmpiricalStandards/)_ on how to make better Software engineering research artifacts. [Our Contribution is here](https://github.com/acmsigsoft/EmpiricalStandards/pull/168).
