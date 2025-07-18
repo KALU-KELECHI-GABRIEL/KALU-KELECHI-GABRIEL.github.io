@@ -36,7 +36,7 @@ Highlights
 
 
 **July 2025:** 
--I will serve on the **ACM SCORED 2025 Workshop PC**.
+- I will serve on the **ACM SCORED 2025 Workshop PC**.
 - I received a Travel Grant to attend the USENIX '25 Conference in Seattle.
 
 
