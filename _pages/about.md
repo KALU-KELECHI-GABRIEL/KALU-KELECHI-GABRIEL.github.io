@@ -34,6 +34,12 @@ Highlights
 - July 2023: Our Paper, "Reflecting on the Use of the Policy-Process-Product Theory in Empirical Software Engineering"has been accepted to ESEC/FSE 2023 on the Ideas Vision and Reflections (IVR) track 🎉 !.
 - Jan 2023: Started my Phd at Purdue 🎉 ! -->
 
+
+**July 2025:** 
+-I will serve on the **ACM SCORED 2025 Workshop PC**.
+- I received a Travel Grant to attend the USENIX '25 Conference in Seattle.
+
+
 **June 2025:** We made contributions to the _[ACM SIGSOFT EMPIRICAL STANDARDS](https://www2.sigsoft.org/EmpiricalStandards/)_ on how to make better Software engineering research artifacts. [Our Contribution is here](https://github.com/acmsigsoft/EmpiricalStandards/pull/168).
 
 **April 2025:** My poster, _"Software Signing: Practical Adoption, Challenges, and Tooling Usability"_, was presented and won the **Best Poster (1st Place)** award at the 2025 Center for Education and Research in Information Assurance and Security ([CERIAS](https://www.cerias.purdue.edu/symposium/index.php/posters/year/2025/C1Y-OBE)) Poster Session 🎉
