@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Electrical and Computer Engineering at Purdue University. As of July 2025, I am in my third year of graduate study. I am part of Purdue's Duality Lab, supervised by [Prof. James C. Davis](https://davisjam.github.io/).
+I am a PhD student in Electrical and Computer Engineering at Purdue University. I am in my **third year** of graduate study. I am part of Purdue's Duality Lab, supervised by [Prof. James C. Davis](https://davisjam.github.io/).
 
 My research focuses on the software supply chain security problem. I am particularly interested in the systematic implementation, efficiency, design, usability, and human factors involved in software supply chain security methods. I also explore other cybersecurity techniques and their integration into the software engineering process. My work analyzes how systems are used, identifies vulnerabilities, and applies security and systems principles to mitigate risks. My goal is to improve the security and correctness of computing systems through rigorous analysis and practical solutions.
 
 Currently, I am working on:
-1. **Software Supply Chain Provenance Security Methods** — My work focuses on software signing, its practical implementations, usability concerns, and use in open source software ecosystems.
+1. **Software Supply Chain Provenance Security Methods** — My work focuses on software signing, its practical implementations, usability concerns, and use in open source software ecosystems. 
 2. **Operationalization of Trust in the Software Supply Chain** — I am developing actor reputation metrics to assess and manage trustworthiness in software ecosystems.
 
-My work has been published in Software aaEngineering and Cybersecurity conferences conferences -- ESEC/FSE'23, SERP4IOT'25,USENIX'25,IEEE S&P'24,SCORED'23
+My work has been published in Software Engineering and Cybersecurity conferences conferences -- ESEC/FSE'23, SERP4IOT'25,USENIX'25,IEEE S&P'24,SCORED'23
 
 
 Highlights
@@ -34,10 +34,17 @@ Highlights
 - July 2023: Our Paper, "Reflecting on the Use of the Policy-Process-Product Theory in Empirical Software Engineering"has been accepted to ESEC/FSE 2023 on the Ideas Vision and Reflections (IVR) track 🎉 !.
 - Jan 2023: Started my Phd at Purdue 🎉 ! -->
 
+**August 2025:** 
+
+- Our poster _“Investigating Software Provenance Consistency in the Open Source Publishing Pipeline”_ has been accepted to USENIX’25 (Poster Track) 🎉
+- 🎉 I presented our paper, “An Industry Interview Study of Software Signing for Supply Chain Security” at USENIX Security 2025!
 
 **July 2025:** 
 - I will serve on the **ACM SCORED 2025 Workshop PC**.
 - I received a USENIX Student Travel Grant to attend the USENIX '25 Conference in Seattle.
+- 🎉 Our paper “An Industry Interview Study of Software Signing for Supply Chain Security” has been selected for a long-form presentation at USENIX Security 2025! I will be presenting this work in Seattle on August 13, 2025.
+- I will serve on the **ICSE 2026 Shadow PC**.
+- I served as a Poster judge at the Purdue Summer Undergraduate Research Symposium **SURF** -- July 30, 2025.
 
 
 **June 2025:** We made contributions to the _[ACM SIGSOFT EMPIRICAL STANDARDS](https://www2.sigsoft.org/EmpiricalStandards/)_ on how to make better Software engineering research artifacts. [Our Contribution is here](https://github.com/acmsigsoft/EmpiricalStandards/pull/168).
