@@ -37,11 +37,12 @@ Highlights
 **August 2025:** 
 
 - Our poster _“Investigating Software Provenance Consistency in the Open Source Publishing Pipeline”_ has been accepted to USENIX’25 (Poster Track) 🎉
-- 🎉 I presented our paper, “An Industry Interview Study of Software Signing for Supply Chain Security” at USENIX Security 2025!
+- 🎉 I presented our paper, _“An Industry Interview Study of Software Signing for Supply Chain Security”_ and our poster, _"Investigating Software Provenance Consistency in the Open Source Publishing Pipeline"_, at USENIX Security 2025!
 
 **July 2025:** 
 - I will serve on the **ACM SCORED 2025 Workshop PC**.
 - I received a USENIX Student Travel Grant to attend the USENIX '25 Conference in Seattle.
+- I have also been selected as a student volunteer at the USENIX 2025 Conference.
 - 🎉 Our paper “An Industry Interview Study of Software Signing for Supply Chain Security” has been selected for a long-form presentation at USENIX Security 2025! I will be presenting this work in Seattle on August 13, 2025.
 - I will serve on the **ICSE 2026 Shadow PC**.
 - I served as a Poster judge at the Purdue Summer Undergraduate Research Symposium **SURF** -- July 30, 2025.
@@ -113,6 +114,9 @@ Services
 -   -->
 I have served in various academic, non-academic and volunteer roles:
 
+- **Purdue Summer Undergraduate Research Fellowships (SURF) Symposium Poster Session Judge//Reviewer**
+- **ACM SCORED 2025 Reviewer & PC Committee Member**
+- **USENIX 2025 Student Volunteer**
 - **Volunteer at ACE Food Pantry** (1 time)
 - **Graduate Panelist at 2025 Purdue ECE Spring Grad Open House** (in-person event)
 - **ESEC/FSE 2023 Student Volunteer**
