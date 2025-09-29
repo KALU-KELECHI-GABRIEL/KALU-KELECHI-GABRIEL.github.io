@@ -34,8 +34,12 @@ Highlights
 - July 2023: Our Paper, "Reflecting on the Use of the Policy-Process-Product Theory in Empirical Software Engineering"has been accepted to ESEC/FSE 2023 on the Ideas Vision and Reflections (IVR) track 🎉 !.
 - Jan 2023: Started my Phd at Purdue 🎉 ! -->
 
+<!-- **September 2025:**  -->
+
+
 **August 2025:** 
 
+- I will serve on the **Privacy Enhancing Technologies Symposium (PETS) Artifact Evaluation PC**.
 - Our poster _“Investigating Software Provenance Consistency in the Open Source Publishing Pipeline”_ has been accepted to USENIX’25 (Poster Track) 🎉
 - 🎉 I presented our paper, _“An Industry Interview Study of Software Signing for Supply Chain Security”_ and our poster, _"Investigating Software Provenance Consistency in the Open Source Publishing Pipeline"_, at USENIX Security 2025!
 
