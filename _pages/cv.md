@@ -32,7 +32,7 @@ redirect_from:
     height="1200px">
     <p>
       Your browser doesn't support inline PDFs. Please
-      <a href="{{ '/files/publications/Kelechi-Kalu--CV-September_2025.pdf' | relative_url }}">download the CV</a>
+      <a href="{{ '/files/publications/Kelechi-Kalu-cv-Oct_V1.pdf' | relative_url }}">download the CV</a>
       to view it.
     </p>
   </object>
