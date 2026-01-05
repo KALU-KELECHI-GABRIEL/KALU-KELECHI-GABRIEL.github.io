@@ -21,18 +21,13 @@ My work has been published in Software Engineering and Cybersecurity conferences
 Highlights
 ======
 
-<!-- - April 2025: My poster,"Software Signing: Practical Adoption, Challenges, and Tooling Usability", was presented and won the best poster (1st place) award at the 2025 Center for Education and Research in Information Assurance and Security ([CERIAS](https://www.cerias.purdue.edu/symposium/index.php/posters/year/2025/C1Y-OBE)) Poster session 2025
-- January 2025: One paper accepted to USENIX’25: An interview study on when, how, and why software engineers adopt software signing for provenance.
-- December 2024: Our paper “Recommending Pre-Trained Models for IoT Devices” has been accepted to SERP4IoT’25 🎉 !
-- August 2024 - I concluded my internship at Microsoft Research. I am grateful for the opportunity to work with such awesome mentors and to do work that is appreiated. 
-- April 2024: I will be joining Microsoft Research as an intern at  this summer under with the Crytpographic research team. I will work under the mentorship of [Dr. Kim Laine]() and [Dr. Betul Durak]().
-- March 2024: I presented a poster to the 25th annual CERIAS reseach poster session CERIAS'24.
-- March 2024: Our Paper "Signing in four public software package registries: Quantity, quality, and influencing factors" has been accepted to IEEE S&P 2024 🎉 !. 
-- December 2023: Attending ESEc/FSE 2023 at San francisco, Carlifornia, where I  presented our paper "Reflecting on the Use of the Policy-Process-Product Theory in Empirical Software Engineering".
-- October 2023: I will Serve as student volunteer at ESEc/FSE 2023
-- September 2023: Our Paper "An empirical study on using large language models to analyze software supply chain security failures" has been accepted to SCORED 2023 🎉 !.
-- July 2023: Our Paper, "Reflecting on the Use of the Policy-Process-Product Theory in Empirical Software Engineering"has been accepted to ESEC/FSE 2023 on the Ideas Vision and Reflections (IVR) track 🎉 !.
-- Jan 2023: Started my Phd at Purdue 🎉 ! -->
+**December 2025:** Our paper _"Why Johnny Adopts Identity-Based Software Signing: A Usability Case Study of Sigstore"_ has been conditionally accepted to USENIX’26 🎉
+
+**November 2025:**
+- I will serve on the **Technical Debt (TechDebt'26) Junior PC**
+- I will serve on the **Usenix Security (USENIX'26) Artifact Evaluation PC**
+
+
 
 **October 2025:**
 - I will serve on the **Mining Software Repositories (MSR'26) Junior PC**

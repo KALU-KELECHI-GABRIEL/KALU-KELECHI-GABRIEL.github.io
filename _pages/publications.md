@@ -122,6 +122,13 @@ Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal
 ## Refereed Conference/Journal/Workshop Publications
 
 ##### Peer Reviewed Conference Publications
+
+1. *Why Johnny Adopts Identity-Based Software Signing: A Usability Case Study of Sigstore*.  
+**Kalu**, Okorafor, Singla, Chen, Torres-Arias, and Davis.  
+[USENIX Security'26] USENIX Security Symposium, 2026.  
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A2Yu0qQAAAAJ&citation_for_view=A2Yu0qQAAAAJ:MXK_kJrjxJIC"><i class="fas fa-file-pdf"></i></a>
+
+
 1. *An Industry Interview Study of Software Signing for Supply Chain Security*.  
 **Kalu**, Singla, Okafor, Torres-Arias, and Davis.  
 [USENIX Security'25] USENIX Security Symposium, 2025.  
@@ -134,16 +141,7 @@ Schorlemmer, **Kalu**, Chigges, Ko, Ishgair, Bagchi, and Davis.
 <a href="{{ site.url }}/files/publications/Signing_in_Four_Public_Software_Package_Registries_Quantity_Quality_and_Influencing_Factors.pdf"><i class="fas fa-file-pdf"></i></a>
 <a href="{{ site.url }}/files/publications/SchorlemmerKaluChiggesKoIshgairBagchiTorresAriasDavis-SigningMeasurements-IEEE-SP24.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
-1. *Reflecting on the Use of the Policy-Process-Product Theory in Empirical Software Engineering*.  
-**Kalu**, Schorlemmer, Chen, Robinson, Kocinare, and Davis.  
-[ESEC/FSE '23] Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2023.  
-<a href="{{ site.url }}/files/publications/FSE23_PolicyProcessProduct.pdf"><i class="fas fa-file-pdf"></i></a>
 
-1. *An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures*.  
-Singla, Anandayuvaraj, **Kalu**, Schorlemmer, and Davis.  
-[SCORED '23] Proceedings of the 2023 Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses.  
-<a href="{{ site.url }}/files/publications/SCORED23_LLMFailures.pdf"><i class="fas fa-file-pdf"></i></a>
-<a href="{{ site.url }}/files/publications/SinglaAnandayuvarajKaluSchorlemmerDavis-LLMsForSupplyChainFailureAnalysis-SCORED2023-slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
 ##### Peer Reviewed Workshops/Other Peer Reviewed Publications
 1. *Establishing Provenance Before Coding: Traditional and Next-Generation Software Signing*.  
@@ -158,20 +156,42 @@ Proceedings of the 7th International Workshop on Software Engineering Research &
 <a href="{{ site.url }}/files/publications/PatilJiangPengLugoKaluLeBlancSmithHeoAouDavis-PTMRecommendation-SERP4IoT2025.pptx"><i class="fas fa-file-powerpoint"></i></a>
 <!-- <a href="https://arxiv.org/pdf/2412.18972"><i class="fas fa-file-pdf"></i></a> -->
 
+1. *An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures*.  
+Singla, Anandayuvaraj, **Kalu**, Schorlemmer, and Davis.  
+[SCORED '23] Proceedings of the 2023 Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses.  
+<a href="{{ site.url }}/files/publications/SCORED23_LLMFailures.pdf"><i class="fas fa-file-pdf"></i></a>
+<a href="{{ site.url }}/files/publications/SinglaAnandayuvarajKaluSchorlemmerDavis-LLMsForSupplyChainFailureAnalysis-SCORED2023-slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
+
+
+1. *Reflecting on the Use of the Policy-Process-Product Theory in Empirical Software Engineering*.  
+**Kalu**, Schorlemmer, Chen, Robinson, Kocinare, and Davis.  
+[ESEC/FSE '23] Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2023.  
+<a href="{{ site.url }}/files/publications/FSE23_PolicyProcessProduct.pdf"><i class="fas fa-file-pdf"></i></a>
 ---
 
 ## Technical Reports
+
+1. *How Do Agents Perform Code Optimization? An Empirical Study*.  
+Peng, Zhong, Méndez, **Kalu**, Davis  
+arXiv preprint arXiv:2512.21757, 2026.  
+<a href="https://arxiv.org/pdf/2512.21757"><i class="fas fa-file-pdf"></i></a>
+
+
+1. *A Guide to Stakeholder Analysis for Cybersecurity Researchers.*.  
+Davis, Chen, Peng, Amusuo, and **Kalu**. 
+arXiv preprint arXiv:2508.14796, 2025.  
+<a href="https://arxiv.org/pdf/2508.14796"><i class="fas fa-file-pdf"></i></a>
+
+1. *Why Software Signing (Still) Matters: Trust Boundaries in the Software Supply Chain*.  
+**Kalu**, and Davis.  
+arXiv preprint arXiv:2510.04964, 2025.  
+<a href="https://arxiv.org/pdf/2510.04964"><i class="fas fa-file-pdf"></i></a>
+
 
 1. *ARMS: A Vision for Actor Reputation Metric Systems in the Open-Source Software Supply Chain*.  
 **Kalu**, Okorafor, Durak, Laine, Moreno, Torres-Arias, and Davis.  
 arXiv preprint arXiv:2505.18760, 2025.  
 <a href="https://arxiv.org/pdf/2505.18760"><i class="fas fa-file-pdf"></i></a>
-
-1. *Why Johnny Signs with Sigstore: Examining Tooling as a Factor in Software Signing Adoption in the Sigstore Ecosystem*.  
-**Kalu**, Okorafor, Singla, Torres-Arias, and Davis.  
-arXiv preprint arXiv:2503.00271, 2025.  
-<a href="https://arxiv.org/pdf/2503.00271"><i class="fas fa-file-pdf"></i></a>
-
 <!-- 1. *Establishing Provenance Before Coding: Traditional and Next-Gen Signing*.  
 Schorlemmer, Burmane, **Kalu**, Torres-Arias, and Davis.  
 arXiv preprint arXiv:2407.03949, 2024.  
