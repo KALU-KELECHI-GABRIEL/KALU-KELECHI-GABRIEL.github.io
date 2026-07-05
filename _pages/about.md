@@ -12,14 +12,28 @@ I am a PhD student in Electrical and Computer Engineering at Purdue University. 
 My research focuses on the software supply chain security problem. I am particularly interested in the systematic implementation, efficiency, design, usability, and human factors involved in software supply chain security methods. I also explore other cybersecurity techniques and their integration into the software engineering process. My work analyzes how systems are used, identifies vulnerabilities, and applies security and systems principles to mitigate risks. My goal is to improve the security and correctness of computing systems through rigorous analysis and practical solutions.
 
 Currently, I am working on:
-1. **Software Supply Chain Provenance Security Methods** — My work focuses on software signing, its practical implementations, usability concerns, and use in open source software ecosystems. 
+<!-- 1. **Software Supply Chain Provenance Security Methods** — My work focuses on software signing, its practical implementations, usability concerns, and use in open source software ecosystems. 
 2. **Operationalization of Trust in the Software Supply Chain** — I am developing actor reputation metrics to assess and manage trustworthiness in software ecosystems.
+3. **Software Supply Chain Security for Agentic Software Engineering** — I am working on extending the trust considerations in the software supply chain security to Agents in agentic Software engineering. -->
+1. **Software Supply Chain Provenance Security Methods** — My work focuses on software signing, its practical implementations, usability concerns, and use in open source software ecosystems.
+2. **Operationalization of Trust in the Software Supply Chain** — I am developing actor reputation metrics to assess and manage trustworthiness in software ecosystems.
+3. **Software Supply Chain Security for Agentic Software Engineering** — I am exploring how software supply chain trust, provenance, and security concerns extend to AI agents and agentic software engineering workflows.
 
 My work has been published in Software Engineering and Cybersecurity conferences conferences -- ESEC/FSE'23, SERP4IOT'25,USENIX'25,IEEE S&P'24,SCORED'23
 
 
 Highlights
 ======
+
+**May 2026:** I will serve on the **ACM SCORED 2026 Workshop PC**.
+
+**April 2026:**
+- My poster, _"A Longitudinal Study of Usability in Identity-Based Software Signing"_, was presented at the 2026 Center for Education and Research in Information Assurance and Security (CERIAS) Poster Session.
+- I passed my preliminary doctoral examinations. Congratulations to me, I am now a PhD candidate 🎉
+
+**March 2026:** I was invited to review for the _Computers & Security_ journal.
+
+**February 2026:** Our papers _"ARMS: A Vision for Actor Reputation Metric Systems in the Open-Source Software Supply Chain"_ and _"Operationalizing Research Software for Supply Chain Security"_ were accepted to ICSE JAWS’26 with recommendations to journals (TOSEM/TSE) 🎉
 
 **December 2025:** Our paper _"Why Johnny Adopts Identity-Based Software Signing: A Usability Case Study of Sigstore"_ has been conditionally accepted to USENIX’26 🎉
 

@@ -14,7 +14,7 @@ redirect_from:
 <!-- Inline CV viewer backed by the latest PDF in /files/publications. -->
 
 <p>
-  <a class="btn btn--primary" href="{{ '/files/publications/kelechi_G_kalu_january-2026_CV.pdf' | relative_url }}">
+  <a class="btn btn--primary" href="{{ '/files/publications/Kelechi-Kalu_June4-CV.pdf' | relative_url }}">
     <i class="fas fa-file-pdf"></i>
     Download CV (PDF)
   </a>
@@ -32,7 +32,7 @@ redirect_from:
     height="1200px">
     <p>
       Your browser doesn't support inline PDFs. Please
-      <a href="{{ '/files/publications/kelechi_G_kalu_january-2026_CV.pdf' | relative_url }}">download the CV</a>
+      <a href="{{ '/files/publications/Kelechi-Kalu_June4-CV.pdf' | relative_url }}">download the CV</a>
       to view it.
     </p>
   </object>
