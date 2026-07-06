@@ -22,7 +22,7 @@ My work has been published in Software Engineering and Cybersecurity conferences
 Highlights
 ======
 
-**May 2026:** I will serve on the **ACM SCORED 2026 Workshop PC**.
+**May 2026:** I will serve on the **ACM SCORED 2026 Conference PC**.
 
 **April 2026:**
 - My poster, _"A Longitudinal Study of Usability in Identity-Based Software Signing"_, was presented at the 2026 Center for Education and Research in Information Assurance and Security (CERIAS) Poster Session.
