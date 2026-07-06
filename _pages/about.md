@@ -7,14 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Electrical and Computer Engineering at Purdue University. I am in my **fourth year** of graduate study. I am part of Purdue's Duality Lab, supervised by [Prof. James C. Davis](https://davisjam.github.io/).
+I am a PhD Candidate in Electrical and Computer Engineering at Purdue University. I am in my **fourth year** of graduate study. I am part of Purdue's Duality Lab, supervised by [Prof. James C. Davis](https://davisjam.github.io/).
 
 My research focuses on the software supply chain security problem. I am particularly interested in the systematic implementation, efficiency, design, usability, and human factors involved in software supply chain security methods. I also explore other cybersecurity techniques and their integration into the software engineering process. My work analyzes how systems are used, identifies vulnerabilities, and applies security and systems principles to mitigate risks. My goal is to improve the security and correctness of computing systems through rigorous analysis and practical solutions.
 
 Currently, I am working on:
-<!-- 1. **Software Supply Chain Provenance Security Methods** — My work focuses on software signing, its practical implementations, usability concerns, and use in open source software ecosystems. 
-2. **Operationalization of Trust in the Software Supply Chain** — I am developing actor reputation metrics to assess and manage trustworthiness in software ecosystems.
-3. **Software Supply Chain Security for Agentic Software Engineering** — I am working on extending the trust considerations in the software supply chain security to Agents in agentic Software engineering. -->
 1. **Software Supply Chain Provenance Security Methods** — My work focuses on software signing, its practical implementations, usability concerns, and use in open source software ecosystems.
 2. **Operationalization of Trust in the Software Supply Chain** — I am developing actor reputation metrics to assess and manage trustworthiness in software ecosystems.
 3. **Software Supply Chain Security for Agentic Software Engineering** — I am exploring how software supply chain trust, provenance, and security concerns extend to AI agents and agentic software engineering workflows.
