@@ -26,7 +26,7 @@ Highlights
 
 **April 2026:**
 - My poster, _"A Longitudinal Study of Usability in Identity-Based Software Signing"_, was presented at the 2026 Center for Education and Research in Information Assurance and Security (CERIAS) Poster Session.
-- I passed my preliminary doctoral examinations. Congratulations to me, I am now a PhD candidate 🎉
+- I passed my preliminary doctoral examinations. Congratulations to me, I am now a PhD candidate 🎉.
 
 **March 2026:**
 - I gave a CERIAS Security Seminar, _"[Software Signing in Practice: Lessons from Adoption and Usability Toward Broader Supply Chain Trust](https://www.cerias.purdue.edu/news_and_events/events/security_seminar/details/index/77f8hlci7b15sl11fjf618dmrf)"_, on March 25, 2026.
