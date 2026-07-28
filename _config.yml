@@ -22,10 +22,10 @@ repository               : "KALU-KELECHI-GABRIEL/KALU-KELECHI-GABRIEL.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "passport-photo.jpg" # filename of the avatar image placed in /images/, e.g. "avatar.jpg"
+  avatar           : "headshot-fixed.png" # filename of the avatar image placed in /images/, e.g. "avatar.jpg"
   name             : "Kelechi Gabriel Kalu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student ECE@Purdue University, Ex Research Intern@Microsoft"
+  bio              : "PhD Candidate ECE@Purdue University, Ex Research Intern@Microsoft"
   location         : "West Lafayette, Indiana"
   employer         : "Duality Labs - Purdue University"
   uri              : # URL

@@ -126,7 +126,7 @@ Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal
 1. *Why Johnny Adopts Identity-Based Software Signing: A Usability Case Study of Sigstore*.  
 **Kalu**, Okorafor, Singla, Chen, Torres-Arias, and Davis.  
 [USENIX Security'26] USENIX Security Symposium, 2026.  
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A2Yu0qQAAAAJ&citation_for_view=A2Yu0qQAAAAJ:MXK_kJrjxJIC"><i class="fas fa-file-pdf"></i></a>
+<a href="{{ site.url }}/files/publications/USENIX26_Johnny_Sigstore.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 1. *An Industry Interview Study of Software Signing for Supply Chain Security*.  
@@ -144,6 +144,24 @@ Schorlemmer, **Kalu**, Chigges, Ko, Ishgair, Bagchi, and Davis.
 
 
 ##### Peer Reviewed Workshops/Other Peer Reviewed Publications
+
+1. *ARMS: A Vision for Actor Reputation Metric Systems in the Open-Source Software Supply Chain*.<br>
+**Kalu**, Okorafor, Durak, Laine, Moreno, Torres-Arias, and Davis.<br>
+[ICSE JAWS'26] The First Journal Ahead Workshop, co-located with the 2026 International Conference on Software Engineering. Recommended for journal extension.<br>
+<a href="{{ site.url }}/files/publications/ICSE-JAWS26_ARMS.pdf"><i class="fas fa-file-pdf"></i></a>
+<a href="{{ site.url }}/files/publications/ICSE-JAWS26_ARMS_slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
+
+1. *Operationalizing Research Software for Supply Chain Security*.<br>
+**Kalu**, Rattan, Schorlemmer, Thiruvathukal, Carver, and Davis.<br>
+[ICSE JAWS'26] The First Journal Ahead Workshop, co-located with the 2026 International Conference on Software Engineering.<br>
+<a href="{{ site.url }}/files/publications/ICSE-JAWS26_Operationalizing_Research_Software.pdf"><i class="fas fa-file-pdf"></i></a>
+<a href="{{ site.url }}/files/publications/ICSE-JAWS26_CROSS_slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
+
+1. *How Do Agents Perform Code Optimization? An Empirical Study*.<br>
+Peng, Zhong, Méndez, **Kalu**, and Davis.<br>
+[MSR Mining'26] Proceedings of the 23rd International Conference on Mining Software Repositories, Mining Challenge track.<br>
+<a href="{{ site.url }}/files/publications/MSR26_How_Do_Agents_Perform_Code_Optimization.pdf"><i class="fas fa-file-pdf"></i></a>
+
 1. *Establishing Provenance Before Coding: Traditional and Next-Generation Software Signing*.  
 Schorlemmer, Burmane, **Kalu**, Torres-Arias, and Davis.  
 IEEE Security & Privacy, 2025.  
@@ -171,27 +189,20 @@ Singla, Anandayuvaraj, **Kalu**, Schorlemmer, and Davis.
 
 ## Technical Reports
 
-1. *How Do Agents Perform Code Optimization? An Empirical Study*.  
-Peng, Zhong, Méndez, **Kalu**, Davis  
-arXiv preprint arXiv:2512.21757, 2026.  
-<a href="https://arxiv.org/pdf/2512.21757"><i class="fas fa-file-pdf"></i></a>
+1. *A Longitudinal Study of Usability in Identity-Based Software Signing*.<br>
+**Kalu**, Tran, Torres-Arias, Jeong, and Davis.<br>
+arXiv preprint arXiv:2603.17133, 2026.<br>
+<a href="{{ site.url }}/files/publications/TR_Longitudinal_Usability_Identity_Based_Software_Signing.pdf"><i class="fas fa-file-pdf"></i></a>
 
+1. *A Guide to Stakeholder Analysis for Cybersecurity Researchers*.<br>
+Davis, Chen, Peng, Amusuo, and **Kalu**.<br>
+arXiv preprint arXiv:2508.14796, 2025.<br>
+<a href="{{ site.url }}/files/publications/TR_Stakeholder_Analysis_Cybersecurity_Researchers.pdf"><i class="fas fa-file-pdf"></i></a>
 
-1. *A Guide to Stakeholder Analysis for Cybersecurity Researchers.*.  
-Davis, Chen, Peng, Amusuo, and **Kalu**. 
-arXiv preprint arXiv:2508.14796, 2025.  
-<a href="https://arxiv.org/pdf/2508.14796"><i class="fas fa-file-pdf"></i></a>
-
-1. *Why Software Signing (Still) Matters: Trust Boundaries in the Software Supply Chain*.  
-**Kalu**, and Davis.  
-arXiv preprint arXiv:2510.04964, 2025.  
-<a href="https://arxiv.org/pdf/2510.04964"><i class="fas fa-file-pdf"></i></a>
-
-
-1. *ARMS: A Vision for Actor Reputation Metric Systems in the Open-Source Software Supply Chain*.  
-**Kalu**, Okorafor, Durak, Laine, Moreno, Torres-Arias, and Davis.  
-arXiv preprint arXiv:2505.18760, 2025.  
-<a href="https://arxiv.org/pdf/2505.18760"><i class="fas fa-file-pdf"></i></a>
+1. *Why Software Signing (Still) Matters: Trust Boundaries in the Software Supply Chain*.<br>
+**Kalu** and Davis.<br>
+arXiv preprint arXiv:2510.04964, 2025.<br>
+<a href="{{ site.url }}/files/publications/TR_Why_Software_Signing_Still_Matters.pdf"><i class="fas fa-file-pdf"></i></a>
 <!-- 1. *Establishing Provenance Before Coding: Traditional and Next-Gen Signing*.  
 Schorlemmer, Burmane, **Kalu**, Torres-Arias, and Davis.  
 arXiv preprint arXiv:2407.03949, 2024.  
