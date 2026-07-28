@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Job Market"
+title: "Seeking 2027 Roles"
 permalink: /job-market/
 author_profile: true
 ---
 
-I am on the 2026-2027 job market for research, security, and software engineering roles beginning in 2027.
+I am currently looking for research, security, and software engineering roles beginning in 2027, after completing my PhD.
 
 My work focuses on software supply-chain security, usable security, software signing and provenance, trust in open-source ecosystems, and security questions in agentic software engineering workflows.
 
