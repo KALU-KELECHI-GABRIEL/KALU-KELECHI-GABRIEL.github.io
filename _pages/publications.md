@@ -128,6 +128,18 @@ Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal
 [USENIX Security'26] USENIX Security Symposium, 2026.  
 <a href="{{ site.url }}/files/publications/USENIX26_Johnny_Sigstore.pdf"><i class="fas fa-file-pdf"></i></a>
 
+<details>
+  <summary>Cite</summary>
+  <pre><code>@inproceedings{kalu2026johnnyadopts,
+  author = {Kelechi G. Kalu and Sofia Okorafor and Tanmay Singla and Sophie Chen and Santiago Torres-Arias and James C. Davis},
+  title = {Why Johnny Adopts Identity-Based Software Signing: A Usability Case Study of Sigstore},
+  booktitle = {35th USENIX Security Symposium (USENIX Security 26)},
+  year = {2026},
+  publisher = {USENIX Association},
+  url = {https://www.usenix.org/conference/usenixsecurity26/presentation/kalu},
+  note = {Prepublication}
+}</code></pre>
+</details>
 
 1. *An Industry Interview Study of Software Signing for Supply Chain Security*.  
 **Kalu**, Singla, Okafor, Torres-Arias, and Davis.  
@@ -135,11 +147,41 @@ Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal
 <a href="{{ site.url }}/files/publications/USENIX25_SigningInterview.pdf"><i class="fas fa-file-pdf"></i></a>
 <a href="{{ site.url }}/files/publications/USENIX25_SigningInterview.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
+<details>
+  <summary>Cite</summary>
+  <pre><code>@inproceedings{usenixsecurity25-kalu,
+  author = {Kelechi G. Kalu and Tanmay Singla and Chinenye Okafor and Santiago Torres-Arias and James C. Davis},
+  title = {An Industry Interview Study of Software Signing for Supply Chain Security},
+  booktitle = {34th USENIX Security Symposium (USENIX Security 25)},
+  year = {2025},
+  isbn = {978-1-939133-52-6},
+  address = {Seattle, WA},
+  pages = {81--100},
+  url = {https://www.usenix.org/conference/usenixsecurity25/presentation/kalu},
+  publisher = {USENIX Association},
+  month = aug
+}</code></pre>
+</details>
+
 1. *Signing in Four Public Software Package Registries: Quantity, Quality, and Influencing Factors*.  
 Schorlemmer, **Kalu**, Chigges, Ko, Ishgair, Bagchi, and Davis.  
 [IEEE S&P '24] IEEE Symposium on Security and Privacy (SP) 2024, 1160–1178.  
 <a href="{{ site.url }}/files/publications/Signing_in_Four_Public_Software_Package_Registries_Quantity_Quality_and_Influencing_Factors.pdf"><i class="fas fa-file-pdf"></i></a>
 <a href="{{ site.url }}/files/publications/SchorlemmerKaluChiggesKoIshgairBagchiTorresAriasDavis-SigningMeasurements-IEEE-SP24.pptx"><i class="fas fa-file-powerpoint"></i></a>
+
+<details>
+  <summary>Cite</summary>
+  <pre><code>@inproceedings{DBLP:conf/sp/SchorlemmerKCKIBTD24,
+  author = {Taylor R. Schorlemmer and Kelechi G. Kalu and Luke Chigges and Kyung Myung Ko and Eman Abu Ishgair and Saurabh Bagchi and Santiago Torres-Arias and James C. Davis},
+  title = {Signing in Four Public Software Package Registries: Quantity, Quality, and Influencing Factors},
+  booktitle = {IEEE Symposium on Security and Privacy, SP 2024, San Francisco, CA, USA, May 19-23, 2024},
+  pages = {1160--1178},
+  publisher = {IEEE},
+  year = {2024},
+  url = {https://doi.org/10.1109/SP54263.2024.00215},
+  doi = {10.1109/SP54263.2024.00215}
+}</code></pre>
+</details>
 
 
 
@@ -151,21 +193,78 @@ Schorlemmer, **Kalu**, Chigges, Ko, Ishgair, Bagchi, and Davis.
 <a href="{{ site.url }}/files/publications/ICSE-JAWS26_ARMS.pdf"><i class="fas fa-file-pdf"></i></a>
 <a href="{{ site.url }}/files/publications/ICSE-JAWS26_ARMS_slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
+<details>
+  <summary>Cite</summary>
+  <pre><code>@misc{kalu2026armsvisionactorreputation,
+  title = {ARMS: A Vision for Actor Reputation Metric Systems in the Open-Source Software Supply Chain},
+  author = {Kelechi G. Kalu and Sofia Okorafor and Bet{\"u}l Durak and Kim Laine and Radames C. Moreno and Santiago Torres-Arias and James C. Davis},
+  year = {2026},
+  eprint = {2505.18760},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CR},
+  url = {https://arxiv.org/abs/2505.18760}
+}</code></pre>
+</details>
+
 1. *Operationalizing Research Software for Supply Chain Security*.<br>
 **Kalu**, Rattan, Schorlemmer, Thiruvathukal, Carver, and Davis.<br>
 [ICSE JAWS'26] The First Journal Ahead Workshop, co-located with the 2026 International Conference on Software Engineering.<br>
 <a href="{{ site.url }}/files/publications/ICSE-JAWS26_Operationalizing_Research_Software.pdf"><i class="fas fa-file-pdf"></i></a>
 <a href="{{ site.url }}/files/publications/ICSE-JAWS26_CROSS_slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
+<details>
+  <summary>Cite</summary>
+  <pre><code>@misc{kalu2026operationalizingresearchsoftwaresupply,
+  title = {Operationalizing Research Software for Supply Chain Security},
+  author = {Kelechi G. Kalu and Soham Rattan and Taylor R. Schorlemmer and George K. Thiruvathukal and Jeffrey C. Carver and James C. Davis},
+  year = {2026},
+  eprint = {2601.20980},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.SE},
+  url = {https://arxiv.org/abs/2601.20980}
+}</code></pre>
+</details>
+
 1. *How Do Agents Perform Code Optimization? An Empirical Study*.<br>
 Peng, Zhong, Méndez, **Kalu**, and Davis.<br>
 [MSR Mining'26] Proceedings of the 23rd International Conference on Mining Software Repositories, Mining Challenge track.<br>
 <a href="{{ site.url }}/files/publications/MSR26_How_Do_Agents_Perform_Code_Optimization.pdf"><i class="fas fa-file-pdf"></i></a>
 
+<details>
+  <summary>Cite</summary>
+  <pre><code>@misc{peng2025agentsperformcodeoptimization,
+  title = {How Do Agents Perform Code Optimization? An Empirical Study},
+  author = {Huiyun Peng and Antonio Zhong and Ricardo Andr{\'e}s Calvo M{\'e}ndez and Kelechi G. Kalu and James C. Davis},
+  year = {2025},
+  eprint = {2512.21757},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.SE},
+  url = {https://arxiv.org/abs/2512.21757}
+}</code></pre>
+</details>
+
 1. *Establishing Provenance Before Coding: Traditional and Next-Generation Software Signing*.  
 Schorlemmer, Burmane, **Kalu**, Torres-Arias, and Davis.  
 IEEE Security & Privacy, 2025.  
 <a href="{{ site.url }}/files/publications/Establishing_Provenance_Before_Coding_Traditional_and_Next-Generation_Software_Signing.pdf"><i class="fas fa-file-pdf"></i></a>
+
+<details>
+  <summary>Cite</summary>
+  <pre><code>@article{Schorlemmer_2025,
+  title = {Establishing Provenance Before Coding: Traditional and Next-Generation Software Signing},
+  volume = {23},
+  issn = {1558-4046},
+  url = {http://dx.doi.org/10.1109/MSEC.2025.3537616},
+  doi = {10.1109/msec.2025.3537616},
+  number = {2},
+  journal = {IEEE Security &amp; Privacy},
+  publisher = {Institute of Electrical and Electronics Engineers (IEEE)},
+  author = {Schorlemmer, Taylor R. and Burmane, Ethan H. and Kalu, Kelechi G. and Torres-Arias, Santiago and Davis, James C.},
+  year = {2025},
+  month = mar,
+  pages = {14--22}
+}</code></pre>
+</details>
 
 1. *Recommending Pre-Trained Models for IoT Devices*.  
 Patil, Jiang, Peng, Lugo, **Kalu**, LeBlanc, Smith, Heo, Aou, and Davis.  
@@ -174,17 +273,67 @@ Proceedings of the 7th International Workshop on Software Engineering Research &
 <a href="{{ site.url }}/files/publications/PatilJiangPengLugoKaluLeBlancSmithHeoAouDavis-PTMRecommendation-SERP4IoT2025.pptx"><i class="fas fa-file-powerpoint"></i></a>
 <!-- <a href="https://arxiv.org/pdf/2412.18972"><i class="fas fa-file-pdf"></i></a> -->
 
+<details>
+  <summary>Cite</summary>
+  <pre><code>@inproceedings{Patil_2025,
+  title = {Recommending Pre-Trained Models for IoT Devices},
+  url = {http://dx.doi.org/10.1109/SERP4IoT66600.2025.00007},
+  doi = {10.1109/serp4iot66600.2025.00007},
+  booktitle = {2025 IEEE/ACM 7th International Workshop on Software Engineering Research &amp; Practices for the IoT (SERP4IoT)},
+  publisher = {IEEE},
+  author = {Patil, Parth V. and Jiang, Wenxin and Peng, Huiyun and Lugo, Daniel and Kalu, Kelechi G. and LeBlanc, Josh and Smith, Lawrence and Heo, Hyeonwoo and Aou, Nathanael and Davis, James C.},
+  year = {2025},
+  month = apr,
+  pages = {17--21}
+}</code></pre>
+</details>
+
 1. *An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures*.  
 Singla, Anandayuvaraj, **Kalu**, Schorlemmer, and Davis.  
 [SCORED '23] Proceedings of the 2023 Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses.  
 <a href="{{ site.url }}/files/publications/SCORED23_LLMFailures.pdf"><i class="fas fa-file-pdf"></i></a>
 <a href="{{ site.url }}/files/publications/SinglaAnandayuvarajKaluSchorlemmerDavis-LLMsForSupplyChainFailureAnalysis-SCORED2023-slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
+<details>
+  <summary>Cite</summary>
+  <pre><code>@inproceedings{Singla_2023,
+  series = {CCS '23},
+  title = {An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures},
+  url = {http://dx.doi.org/10.1145/3605770.3625214},
+  doi = {10.1145/3605770.3625214},
+  booktitle = {Proceedings of the 2023 Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses},
+  publisher = {ACM},
+  author = {Singla, Tanmay and Anandayuvaraj, Dharun and Kalu, Kelechi G. and Schorlemmer, Taylor R. and Davis, James C.},
+  year = {2023},
+  month = nov,
+  pages = {5--15},
+  collection = {CCS '23}
+}</code></pre>
+</details>
+
 
 1. *Reflecting on the Use of the Policy-Process-Product Theory in Empirical Software Engineering*.  
 **Kalu**, Schorlemmer, Chen, Robinson, Kocinare, and Davis.  
 [ESEC/FSE '23] Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2023.  
 <a href="{{ site.url }}/files/publications/FSE23_PolicyProcessProduct.pdf"><i class="fas fa-file-pdf"></i></a>
+
+<details>
+  <summary>Cite</summary>
+  <pre><code>@inproceedings{Kalu_2023,
+  series = {ESEC/FSE '23},
+  title = {Reflecting on the Use of the Policy-Process-Product Theory in Empirical Software Engineering},
+  url = {http://dx.doi.org/10.1145/3611643.3613075},
+  doi = {10.1145/3611643.3613075},
+  booktitle = {Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  publisher = {ACM},
+  author = {Kalu, Kelechi G. and Schorlemmer, Taylor R. and Chen, Sophie and Robinson, Kyle A. and Kocinare, Erik and Davis, James C.},
+  year = {2023},
+  month = nov,
+  pages = {2112--2116},
+  collection = {ESEC/FSE '23}
+}</code></pre>
+</details>
+
 ---
 
 ## Technical Reports
@@ -194,15 +343,54 @@ Singla, Anandayuvaraj, **Kalu**, Schorlemmer, and Davis.
 arXiv preprint arXiv:2603.17133, 2026.<br>
 <a href="{{ site.url }}/files/publications/TR_Longitudinal_Usability_Identity_Based_Software_Signing.pdf"><i class="fas fa-file-pdf"></i></a>
 
+<details>
+  <summary>Cite</summary>
+  <pre><code>@misc{kalu2026longitudinalstudyusabilityidentitybased,
+  title = {A Longitudinal Study of Usability in Identity-Based Software Signing},
+  author = {Kelechi G. Kalu and Hieu Tran and Santiago Torres-Arias and Sooyeon Jeong and James C. Davis},
+  year = {2026},
+  eprint = {2603.17133},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.SE},
+  url = {https://arxiv.org/abs/2603.17133}
+}</code></pre>
+</details>
+
 1. *A Guide to Stakeholder Analysis for Cybersecurity Researchers*.<br>
 Davis, Chen, Peng, Amusuo, and **Kalu**.<br>
 arXiv preprint arXiv:2508.14796, 2025.<br>
 <a href="{{ site.url }}/files/publications/TR_Stakeholder_Analysis_Cybersecurity_Researchers.pdf"><i class="fas fa-file-pdf"></i></a>
 
+<details>
+  <summary>Cite</summary>
+  <pre><code>@misc{davis2025guidestakeholderanalysiscybersecurity,
+  title = {A Guide to Stakeholder Analysis for Cybersecurity Researchers},
+  author = {James C Davis and Sophie Chen and Huiyun Peng and Paschal C Amusuo and Kelechi G Kalu},
+  year = {2025},
+  eprint = {2508.14796},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CR},
+  url = {https://arxiv.org/abs/2508.14796}
+}</code></pre>
+</details>
+
 1. *Why Software Signing (Still) Matters: Trust Boundaries in the Software Supply Chain*.<br>
 **Kalu** and Davis.<br>
 arXiv preprint arXiv:2510.04964, 2025.<br>
 <a href="{{ site.url }}/files/publications/TR_Why_Software_Signing_Still_Matters.pdf"><i class="fas fa-file-pdf"></i></a>
+
+<details>
+  <summary>Cite</summary>
+  <pre><code>@misc{kalu2025softwaresigningstillmatters,
+  title = {Why Software Signing (Still) Matters: Trust Boundaries in the Software Supply Chain},
+  author = {Kelechi G. Kalu and James C. Davis},
+  year = {2025},
+  eprint = {2510.04964},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.SE},
+  url = {https://arxiv.org/abs/2510.04964}
+}</code></pre>
+</details>
 <!-- 1. *Establishing Provenance Before Coding: Traditional and Next-Gen Signing*.  
 Schorlemmer, Burmane, **Kalu**, Torres-Arias, and Davis.  
 arXiv preprint arXiv:2407.03949, 2024.  
